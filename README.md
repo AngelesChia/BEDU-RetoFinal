@@ -1,5 +1,7 @@
 # BEDU-RetoFinal-ReadEra
-App que nos ayuda a leer libros, revistas, libros de texto y documentos
+App que nos ayuda a leer libros, revistas, libros de texto y documentos.
+
+Nota:La finalidad de este código es meramente de simulación y didáctico que se basa en una app ya existente, en este caso es ReadEra.
 
 ## INTEGRANTES
 
