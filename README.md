@@ -1,7 +1,7 @@
 # BEDU-RetoFinal
 App que nos ayuda a leer libros, revistas, libros de texto y documentos.
 
-NOTA: La finalidad de este código es meramente de simulación y didáctico que se basa en una app ya existente, en este caso es ReadEra. La estructura del código irá tomando forma a lo largo del proyecto.
+NOTA: La finalidad de este código es meramente de simulación y didáctico que se basa en una app ya existente, en este caso es ReadEra. La estructura del código irá tomando forma a lo largo del proyecto. También se muestra en cada carpeta el código de Postwork de la app Bedu y el código adaptado al proyecto final que es el Reto Final.
 
 ## INTEGRANTES
 
